@@ -70,12 +70,12 @@ Outline
 
 * Convert a script into a Beer Garden Plugin - Live Coding
 * Demonstrate how your script just evolved to solve all the old problems - Explore the GUI
-   * Rest Interface? - ✓
-   * GUI? - ✓
-   * Documentation? - ✓
-   * Metrics? - ✓
-   * Transparency? - ✓
-   * Authentication? - ✓
+* Rest Interface? - ✓
+* GUI? - ✓
+* Documentation? - ✓
+* Metrics? - ✓
+* Transparency? - ✓
+* Authentication? - ✓
 
 **Plugins all the way Down** - 5 min w/Live Demo
 
