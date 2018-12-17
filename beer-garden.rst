@@ -4,7 +4,7 @@ Automate More, Worry Less with Beer Garden
 Description
 -----------
 
-Do you have Custom python scripts that are super powerful sitting
+Do you have custom python scripts that are super powerful sitting
 in your home directory? You want to share them with end-users, 
 developers and teammates alike, but you know **there is a mountain 
 of work between your scripts and a service you can share with 
@@ -49,14 +49,15 @@ Outline
   different services.
 * Jordan gets asked questions from end-users, teammates, and 
   internal software development teams because of his domain 
-  knowledge
+  knowledge.
 * Jordan writes code, but isn’t a software developer.
 
 **The Power of Scripts** - 4 min
 
 * Scripts are easy for Jordan to write.
 * Scripts are easy for Jordan to execute.
-* Scripts are incredibly flexible and let Jordan adjust.
+* Scripts are incredibly flexible and let Jordan adjust to 
+  changes in the work environment.
 * Scripts are straight-forward for Jordan to understand.
 
 **The Problem with “Just Scripts”** - 3 min
@@ -66,10 +67,11 @@ Outline
 * Scripts are hard to discover by others.
 * Scripts are hard to use programmatically.
 
-**Brewing Simply Better Scripts** - 8 min w/Live Demo
+**Brewing Simply Better Scripts** - 8 min w/live demo
 
-* Convert a script into a Beer Garden Plugin - Live Coding
-* Demonstrate how your script just evolved to solve all the old problems - Explore the GUI
+* Convert a script into a Beer Garden Plugin - live coding
+* Demonstrate how your script just evolved to solve all the 
+  old problems - explore the GUI
 * Rest Interface? - ✓
 * GUI? - ✓
 * Documentation? - ✓
@@ -77,10 +79,10 @@ Outline
 * Transparency? - ✓
 * Authentication? - ✓
 
-**Plugins all the way Down** - 5 min w/Live Demo
+**Plugins all the way Down** - 5 min w/live demo
 
-* Tie two plugins together easily - Live Coding
-* Explore how tracing works in the GUI - Explore the GUI
+* Tie two plugins together easily - live coding
+* Explore how tracing works in the GUI - explore the GUI
 * Explore what happens when an exception occurs
 
 **Questions** - 5 min
